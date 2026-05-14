@@ -1,5 +1,17 @@
 # ☕📊 Data Analytics Portfolio Project (SQL + Power BI)
 
+❓ Problem Statement
+
+Businesses often collect large amounts of raw data from sales, customers, products, and transactions, but this data is frequently incomplete, inconsistent, and difficult to analyze directly. Poor data quality and lack of clear reporting make it challenging for stakeholders to:
+
+Track sales and profit performance
+Identify top-performing products and customers
+Detect regional or operational issues
+Understand customer behavior and purchasing trends
+Make data-driven business decisions
+
+The objective of this project is to clean, transform, analyze, and visualize raw business data using SQL and Power BI to generate actionable insights through interactive dashboards and analytical reporting.
+
 ## 🔍 Project Overview
 
 This project is a **complete end-to-end data analytics workflow** where raw (unclean) data is transformed into meaningful business insights using **SQL** and **Power BI**.
